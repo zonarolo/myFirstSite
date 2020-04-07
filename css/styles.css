@@ -1,0 +1,151 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  color: #364f6b;
+}
+
+h2 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2.5em;
+  color: #364f6b;
+}
+
+h3 {
+  color: #3fc1c9;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 2;
+}
+
+.profile p {
+  width: 30%;
+  margin: auto auto 40px auto;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 3%;
+  border-color: #fc5185;
+  border-width: 10px;
+}
+
+.top-container {
+  background-color: #3fc1c9;
+  height: 100vh;
+  padding-top: 1%;
+  margin-bottom: 50px;
+}
+
+.top-container h1 {
+  margin-top: 300px;
+  margin-left: 200px;
+}
+
+
+.bottom-container {
+  background-color: #3fc1c9;
+  padding: 1%;
+}
+
+.JuanRolo {
+  margin-top: 50px;
+  border-radius: 100%;
+  width: 12%;
+}
+
+.yama {
+  width: 40%;
+  position: absolute;
+  right: 60%;
+  top: 5%;
+}
+
+.web {
+  text-decoration: underline;
+}
+
+.cloud1 {
+  position: absolute;
+  left: 35%;
+  top: 15%;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 70%;
+  top: 70%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+
+.plumas {
+  position: absolute;
+  -moz-transform: rotate(-180deg);
+  -o-transform: rotate(-180deg);
+  -webkit-transform: rotate(-180deg);
+  transform: rotate(-180deg);
+  left: 82%;
+}
+
+.code-img {
+  width: 40%;
+  margin: 3%;
+}
+
+.code-img-bootstrap {
+  width: 15%;
+  padding-bottom: 3%;
+}
+
+.btn {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #364F6B;
+  font-family: Comfortaa;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #3FC1C9;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn:hover {
+  background: rgba(60, 192, 200, 0.73);
+  border: solid #000000 1px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 60px auto 60px;
+}
+
+.footer-img {
+  position: relative;
+  width: 3%;
+}
+
+#364f6b #3fc1c9 #f5f5f5 #fc5185
